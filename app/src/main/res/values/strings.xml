@@ -8,4 +8,10 @@
     <string name="delete">Delete</string>
     <string name="search_operation">SEARCH OPERATION</string>
     <string name="search_file">Enter the file to be searched</string>
+    <string name="create_operation">CREATE OPERATION</string>
+    <string name="enter_the_file_name_with_format">Enter the file name with format</string>
+    <string name="delete_operation">DELETE OPERATION</string>
+    <string name="update_operation">UPDATE OPERATION</string>
+    <string name="enter_the_file_name_to_be_updated">Enter the file name to be updated</string>
+    <string name="read_operation">READ OPERATION</string>
 </resources>
