@@ -16,11 +16,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        search = (Button) findViewById(R.id.search);
-        create = (Button) findViewById(R.id.create);
-        read = (Button) findViewById(R.id.read);
-        update = (Button) findViewById(R.id.update);
-        delete = (Button) findViewById(R.id.delete);
+        search = findViewById(R.id.search);
+        create = findViewById(R.id.create);
+        read = findViewById(R.id.read);
+        update = findViewById(R.id.update);
+        delete = findViewById(R.id.delete);
 
         search.setOnClickListener(this);
         create.setOnClickListener(this);
