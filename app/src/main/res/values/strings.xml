@@ -6,4 +6,6 @@
     <string name="read">Read</string>
     <string name="update">Update</string>
     <string name="delete">Delete</string>
+    <string name="search_operation">SEARCH OPERATION</string>
+    <string name="search_file">Enter the file to be searched</string>
 </resources>
