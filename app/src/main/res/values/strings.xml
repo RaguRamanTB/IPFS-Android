@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">IPFS-Android</string>
+    <string name="android_interplanetary_file_system">Inter Planetary File System</string>
+    <string name="search">Search</string>
+    <string name="create">Create</string>
+    <string name="read">Read</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
 </resources>
