@@ -14,4 +14,7 @@
     <string name="update_operation">UPDATE OPERATION</string>
     <string name="enter_the_file_name_to_be_updated">Enter the file name to be updated</string>
     <string name="read_operation">READ OPERATION</string>
+    <string name="no_files_or_directories">No files or directories</string>
+    <string name="filename">FILENAME</string>
+    <string name="browse">Browse</string>
 </resources>
